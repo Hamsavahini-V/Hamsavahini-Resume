@@ -5,7 +5,7 @@ Welcome to my digital resume! This project showcases my experience, skills, and 
 ## 🚀 Live Preview
 
 You can view the live version of my resume here:  
-👉 [**Click to View Resume**](https://your-username.github.io/hamsavahini-resume/)
+👉 [**Click to View Resume**](https://Hamsavahini-V.github.io/hamsavahini-resume/)
 
 ## 📌 About Me
 
